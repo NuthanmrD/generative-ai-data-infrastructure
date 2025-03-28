@@ -54,8 +54,6 @@ If you find this book useful, please consider:
   url = {https://github.com/NuthanmrD/generative-ai-data-infrastructure}
 }
 
----
-
 ## 🤝 Contributing  
 Want to contribute? Here's how:  
 
@@ -64,19 +62,8 @@ Want to contribute? Here's how:
 ✅ **Make improvements** (fix typos, add examples)  
 ✅ **Submit a pull request**  
 
----
-
-## 📜 License  
-> This book is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0) License**.  
-📄 [Read the full license here](https://creativecommons.org/licenses/by/4.0/)  
-
----
-
 ## 📧 Contact & Feedback  
-📬 **Email:** your-email@example.com  
-🐦 **Twitter:** [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)  
-
----
+📬 **Email:** nuthanmanishr1996@gmail.com    
 
 <p align="center">
 🚀 <b>Happy Learning & Building!</b> 🚀  
