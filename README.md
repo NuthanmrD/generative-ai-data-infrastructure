@@ -54,6 +54,8 @@ If you find this book useful, please consider:
   url = {https://github.com/NuthanmrD/generative-ai-data-infrastructure}
 }
 
+---
+
 ## 🤝 Contributing  
 Want to contribute? Here's how:  
 
@@ -62,9 +64,10 @@ Want to contribute? Here's how:
 ✅ **Make improvements** (fix typos, add examples)  
 ✅ **Submit a pull request**  
 
-## 📧 Contact & Feedback  
-📬 **Email:** nuthanmanishr1996@gmail.com    
+---
 
-<p align="center">
-🚀 <b>Happy Learning & Building!</b> 🚀  
-</p>
+## 📧 Contact & Feedback  
+📬 **Email:** nuthanmanishr1996@gmail.com  
+  
+
+---
