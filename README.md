@@ -65,8 +65,5 @@ Want to contribute? Here's how:
 ## 📧 Contact & Feedback  
 📬 **Email:** [nuthanmanishr1996@gmail.com](mailto:nuthanmanishr1996@gmail.com)
 
----
-
-<p align="center"> 🚀 <b>Happy Learning & Building!</b> 🚀 </p>
 
 
