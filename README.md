@@ -62,8 +62,11 @@ Want to contribute? Here's how:
 ✅ Make improvements (fix typos, add examples)
 ✅ Submit a pull request
 
-📧 Contact & Feedback
-📬 Email: nuthanmanishr1996@gmail.com
+## 📧 Contact & Feedback  
+📬 **Email:** [nuthanmanishr1996@gmail.com](mailto:nuthanmanishr1996@gmail.com)
 
-<p align="center"> 🚀 <b>Happy Learning & Building!</b> 🚀 </p> ```
+---
+
+<p align="center"> 🚀 <b>Happy Learning & Building!</b> 🚀 </p>
+
 
